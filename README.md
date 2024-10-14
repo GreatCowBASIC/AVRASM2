@@ -17,6 +17,6 @@ This the official assembler for Microchip's AVR microcontroller product line:
    - To create a assembly project using AVRASM2, then, use the command line parameters to compiler your ASM source.
 
 4. **Migration from Older AVRASM:**
-   - The former AVRASM (distributed with AVR Studio 4) has been obsoleted and is no longer distributed with current products. AVRASM2 is the recommended replacement⁴.
+   - The former AVRASM (distributed with AVR Studio 4) has been obsoleted and is no longer distributed with current products. AVRASM2 is the recommended replacement.
 
 Remember, working with assembly language can be both challenging and rewarding. It gives you fine-grained control over the hardware, but it also requires a deep understanding of the microcontroller's architecture. If you have any specific questions or need further assistance, feel free to ask!
