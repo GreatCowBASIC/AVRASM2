@@ -20,3 +20,5 @@ This the official assembler for Microchip's AVR microcontroller product line:
    - The former AVRASM (distributed with AVR Studio 4) has been obsoleted and is no longer distributed with current products. AVRASM2 is the recommended replacement.
 
 Remember, working with assembly language can be both challenging and rewarding. It gives you fine-grained control over the hardware, but it also requires a deep understanding of the microcontroller's architecture. If you have any specific questions or need further assistance, feel free to ask!
+
+If you have more INC files you want to add to the INCLUDE folder.. then, do add.
