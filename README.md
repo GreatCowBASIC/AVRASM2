@@ -1,5 +1,5 @@
 # AVRASM2
-A flat directory structure for AVRASM2. Files extracted from Microchip DFP folder structure/
+A flat directory structure for AVRASM2. Files extracted from Microchip DFP folder structure.
 
 This the official assembler for Microchip's AVR microcontroller product line:
 
